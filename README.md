@@ -3,7 +3,7 @@
   <img src="banner.jpg" alt="header image" width="150"/>
 </p>
 
-<h1 align="center">Hi, I’m ปิยฉัตร ถึงสุข <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Piyachat Thuengsuk <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
   <strong>IT Student • Software Tester • Future Full-stack Developer</strong><br/>
